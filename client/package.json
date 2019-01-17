@@ -1,0 +1,15 @@
+{
+  "name": "reference",
+  "version": "1.0.0",
+  "description": "reference design for mqtt",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "author": "Brenden",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
